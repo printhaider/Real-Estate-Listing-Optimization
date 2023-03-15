@@ -9,10 +9,10 @@ In this problem, you are given a set of house listings and your job is to return
 ### Example
 
 #### Input:
-  L4, 123 kings road,2022
-  L1, 123 kings road,2020
-  L2, 20 queen road,1990
-  L3, 20 queen road,1992
+L4, 123 kings road,2022
+L1, 123 kings road,2020
+L2, 20 queen road,1990
+L3, 20 queen road,1992
 
 #### Expected Output: (L4, L3)
 
