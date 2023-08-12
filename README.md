@@ -1,4 +1,4 @@
-# haiderbajwa-list-sorting
+# Real Estate Listing Optimization
 
 This repository contains a Python script that sorts a list of house listings and returns the most recent listing of each address. The script takes in a list of house listings in the format `name, address, date`, and outputs a list of the most recent listing of each address.
 
